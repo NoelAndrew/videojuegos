@@ -1,0 +1,216 @@
+{
+    "frames": [
+        {
+            "filename": "bulba0-0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-1",
+            "frame": {
+                "x": 203,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-2",
+            "frame": {
+                "x": 405,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-3",
+            "frame": {
+                "x": 607,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-4",
+            "frame": {
+                "x": 809,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-5",
+            "frame": {
+                "x": 1011,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-6",
+            "frame": {
+                "x": 1213,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-7",
+            "frame": {
+                "x": 1415,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-8",
+            "frame": {
+                "x": 1617,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-9",
+            "frame": {
+                "x": 1819,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-10",
+            "frame": {
+                "x": 2021,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-11",
+            "frame": {
+                "x": 2223,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-12",
+            "frame": {
+                "x": 2425,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-13",
+            "frame": {
+                "x": 2627,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-14",
+            "frame": {
+                "x": 2829,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba0-15",
+            "frame": {
+                "x": 3031,
+                "y": 1,
+                "w": 200,
+                "h": 205
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "vapo3_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-0"
+                },
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-1"
+                },
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-4"
+                },
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-5"
+                },
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-2"
+                },
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-3"
+                },
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-6"
+                }
+            ]
+        },
+        {
+            "key": "vapo3_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "vapo3",
+                    "frame": "vapo3-7"
+                }
+            ]
+        }
+    ]
+}

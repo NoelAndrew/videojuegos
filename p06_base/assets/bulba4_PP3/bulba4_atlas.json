@@ -1,0 +1,203 @@
+{
+    "frames": [
+        {
+            "filename": "bulbauno-1",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-3",
+            "frame": {
+                "x": 259,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-4",
+            "frame": {
+                "x": 517,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-6",
+            "frame": {
+                "x": 775,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-7",
+            "frame": {
+                "x": 1033,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-8",
+            "frame": {
+                "x": 1291,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-9",
+            "frame": {
+                "x": 1549,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-10",
+            "frame": {
+                "x": 1807,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-12",
+            "frame": {
+                "x": 2065,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-11",
+            "frame": {
+                "x": 2323,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-0",
+            "frame": {
+                "x": 2581,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-2",
+            "frame": {
+                "x": 2839,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-5",
+            "frame": {
+                "x": 3097,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-13",
+            "frame": {
+                "x": 3355,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbauno-14",
+            "frame": {
+                "x": 3613,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

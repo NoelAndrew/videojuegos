@@ -1,0 +1,60 @@
+{
+    "frames": [
+        {
+            "filename": "vapo4-0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 200,
+                "h": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo4-1",
+            "frame": {
+                "x": 203,
+                "y": 1,
+                "w": 200,
+                "h": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo4-2",
+            "frame": {
+                "x": 405,
+                "y": 1,
+                "w": 200,
+                "h": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo4-4",
+            "frame": {
+                "x": 607,
+                "y": 1,
+                "w": 200,
+                "h": 200
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

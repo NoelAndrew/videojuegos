@@ -1,0 +1,86 @@
+{
+    "frames": [
+        {
+            "filename": "bulbaco-0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 250,
+                "h": 250
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbaco-1",
+            "frame": {
+                "x": 253,
+                "y": 1,
+                "w": 250,
+                "h": 250
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbaco-2",
+            "frame": {
+                "x": 505,
+                "y": 1,
+                "w": 250,
+                "h": 250
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbaco-6",
+            "frame": {
+                "x": 757,
+                "y": 1,
+                "w": 250,
+                "h": 250
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbaco-3",
+            "frame": {
+                "x": 1009,
+                "y": 1,
+                "w": 250,
+                "h": 250
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulbaco-8",
+            "frame": {
+                "x": 1261,
+                "y": 1,
+                "w": 250,
+                "h": 250
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

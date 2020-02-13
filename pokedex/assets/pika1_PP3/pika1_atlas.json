@@ -1,0 +1,60 @@
+{
+    "frames": [
+        {
+            "filename": "pikagif-0",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 450,
+                "h": 321
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pikagif-1",
+            "frame": {
+                "x": 450,
+                "y": 0,
+                "w": 450,
+                "h": 321
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pikagif-2",
+            "frame": {
+                "x": 900,
+                "y": 0,
+                "w": 450,
+                "h": 321
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pikagif-3",
+            "frame": {
+                "x": 1350,
+                "y": 0,
+                "w": 450,
+                "h": 321
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

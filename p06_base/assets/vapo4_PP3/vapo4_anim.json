@@ -1,0 +1,36 @@
+{
+    "anims": [
+        {
+            "key": "vapo4_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 6,
+            "frames": [
+                {
+                    "key": "vapo4",
+                    "frame": "vapo4-0"
+                },
+                {
+                    "key": "vapo4",
+                    "frame": "vapo4-1"
+                },
+                {
+                    "key": "vapo4",
+                    "frame": "vapo4-2"
+                }
+            ]
+        },
+        {
+            "key": "vapo4_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "vapo4",
+                    "frame": "vapo4-0"
+                }
+            ]
+        }
+    ]
+}

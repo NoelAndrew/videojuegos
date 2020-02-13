@@ -1,0 +1,96 @@
+{
+    "anims": [
+        {
+            "key": "pika2_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0000.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0001.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0002.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0003.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0004.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0005.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0006.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0007.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0008.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0009.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0010.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0011.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0012.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0013.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0014.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0018.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0021.jpg"
+                },
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0023.jpg"
+                }
+            ]
+        },
+        {
+            "key": "pika_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pika2_atlas",
+                    "frame": "pika2-0024.jpg"
+                }
+            ]
+        }
+    ]
+}

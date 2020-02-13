@@ -1,0 +1,84 @@
+{
+    "anims": [
+        {
+            "key": "bulba0_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-0"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-1"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-2"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-3"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-4"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-5"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-6"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-7"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-8"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-9"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-10"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-11"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-12"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-13"
+                },
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-14"
+                }
+            ]
+        },
+        {
+            "key": "bulba0_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba0",
+                    "frame": "bulba0-15"
+                }
+            ]
+        }
+    ]
+}

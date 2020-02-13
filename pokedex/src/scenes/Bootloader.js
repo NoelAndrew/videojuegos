@@ -44,7 +44,7 @@ class Bootloader extends Phaser.Scene{
             this.bulbab.setVisible(false);
             });
             this.bulbab.on(eventos.POINTER_OUT, (evento) => {
-                this.bulbab.setVisible(true);
+               this.bulbab.setVisible(true);
             });
 
             this.pikab.on(eventos.POINTER_MOVE, (evento) => {
@@ -59,6 +59,7 @@ class Bootloader extends Phaser.Scene{
             this.vapob.on(eventos.POINTER_OUT, (evento) => {
             this.vapob.setVisible(true);
              });
+
     
 
 

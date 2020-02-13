@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "bulba2_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-0"
+                },
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-1"
+                },
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-9"
+                },
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-11"
+                },
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-12"
+                },
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-13"
+                }
+            ]
+        },
+        {
+            "key": "bulba2_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba2",
+                    "frame": "bulba2-14"
+                }
+            ]
+        }
+    ]
+}

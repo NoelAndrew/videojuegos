@@ -1,0 +1,68 @@
+{
+    "anims": [
+        {
+            "key": "bulba_uno",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-1"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-3"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-4"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-7"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-8"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-9"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-10"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-12"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-11"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-0"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-2"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-5"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-13"
+                },
+                {
+                    "key": "bulba4",
+                    "frame": "bulbauno-14"
+                }
+            ]
+        }
+    ]
+}

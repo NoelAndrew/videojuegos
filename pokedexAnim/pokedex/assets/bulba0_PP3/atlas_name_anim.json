@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "bulba_c",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "atlas_name",
+                    "frame": "bulbaco-0"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "bulbaco-1"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "bulbaco-2"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "bulbaco-3"
+                },
+                {
+                    "key": "atlas_name",
+                    "frame": "bulbaco-8"
+                }
+            ]
+        }
+    ]
+}

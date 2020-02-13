@@ -1,0 +1,316 @@
+{
+    "anims": [
+        {
+            "key": "vapo2_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 40,
+            "frames": [
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-0"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-1"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-2"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-3"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-4"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-5"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-6"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-7"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-8"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-9"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-10"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-11"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-12"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-13"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-14"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-15"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-16"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-17"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-18"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-19"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-20"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-21"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-22"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-23"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-24"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-25"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-26"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-27"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-28"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-29"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-30"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-31"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-32"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-33"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-34"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-35"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-36"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-37"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-38"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-39"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-40"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-41"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-42"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-43"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-44"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-45"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-46"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-47"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-48"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-49"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-50"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-51"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-52"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-53"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-54"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-55"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-56"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-57"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-58"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-59"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-60"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-61"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-62"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-63"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-64"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-65"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-66"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-67"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-68"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-69"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-70"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-71"
+                },
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-72"
+                }
+            ]
+        },
+        {
+            "key": "vapo2_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "vapo2",
+                    "frame": "vapo2-73"
+                }
+            ]
+        }
+    ]
+}

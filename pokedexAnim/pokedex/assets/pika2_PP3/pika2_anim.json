@@ -1,0 +1,116 @@
+{
+    "anims": [
+        {
+            "key": "pika2_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pika2",
+                    "frame": "pika2-0"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-1"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-2"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-3"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-4"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-5"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-6"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-7"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-8"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-9"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-10"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-11"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-12"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-13"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-14"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-15"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-17"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-18"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-19"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-20"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-21"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-22"
+                },
+                {
+                    "key": "pika2",
+                    "frame": "pika2-23"
+                }
+            ]
+        },
+        {
+            "key": "pika2_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pika2",
+                    "frame": "pika2-24"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "bulba2-0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-1",
+            "frame": {
+                "x": 259,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-9",
+            "frame": {
+                "x": 517,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-10",
+            "frame": {
+                "x": 775,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-11",
+            "frame": {
+                "x": 1033,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-12",
+            "frame": {
+                "x": 1291,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-13",
+            "frame": {
+                "x": 1549,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bulba2-14",
+            "frame": {
+                "x": 1807,
+                "y": 1,
+                "w": 256,
+                "h": 256
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

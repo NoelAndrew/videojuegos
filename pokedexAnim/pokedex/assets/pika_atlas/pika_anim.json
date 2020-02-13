@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "pika1_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 20,
+            "frames": [
+                {
+                    "key": "pika1",
+                    "frame": "pikagif-1"
+                },
+                {
+                    "key": "pika1",
+                    "frame": "pikagif-1"
+                },
+                {
+                    "key": "pika1",
+                    "frame": "pikagif-2"
+                },
+                {
+                    "key": "pika1",
+                    "frame": "pikagif-0"
+                },
+                {
+                    "key": "pika1",
+                    "frame": "pikagif-3"
+                }
+            ]
+        }
+    ]
+}

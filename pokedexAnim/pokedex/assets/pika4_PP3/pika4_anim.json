@@ -1,0 +1,60 @@
+{
+    "anims": [
+        {
+            "key": "pika4_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pika4",
+                    "frame": "pika4-0"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-1"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-2"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-3"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-4"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-5"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-6"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-10"
+                },
+                {
+                    "key": "pika4",
+                    "frame": "pika4-11"
+                }
+            ]
+        },
+        {
+            "key": "pika4_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "pika4",
+                    "frame": "pika4-12"
+                }
+            ]
+        }
+    ]
+}

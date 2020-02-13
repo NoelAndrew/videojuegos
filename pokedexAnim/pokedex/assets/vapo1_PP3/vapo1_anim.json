@@ -1,0 +1,100 @@
+{
+    "anims": [
+        {
+            "key": "vapo1_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-0"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-1"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-2"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-3"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-4"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-5"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-6"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-11"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-12"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-13"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-14"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-15"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-16"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-21"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-22"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-17"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-18"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-19"
+                },
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-20"
+                }
+            ]
+        },
+        {
+            "key": "vapo1_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "vapo1",
+                    "frame": "vapo-23"
+                }
+            ]
+        }
+    ]
+}

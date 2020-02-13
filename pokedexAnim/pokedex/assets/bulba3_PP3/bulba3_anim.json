@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "bulba3_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba3",
+                    "frame": "bulba3-0"
+                },
+                {
+                    "key": "bulba3",
+                    "frame": "bulba3-1"
+                }
+            ]
+        },
+        {
+            "key": "bulba3_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "bulba3",
+                    "frame": "bulba3-1"
+                }
+            ]
+        }
+    ]
+}

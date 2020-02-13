@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "vapo3-0",
+            "frame": {
+                "x": 1,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-1",
+            "frame": {
+                "x": 103,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-4",
+            "frame": {
+                "x": 205,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-5",
+            "frame": {
+                "x": 307,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-2",
+            "frame": {
+                "x": 409,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-3",
+            "frame": {
+                "x": 511,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-6",
+            "frame": {
+                "x": 613,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "vapo3-7",
+            "frame": {
+                "x": 715,
+                "y": 1,
+                "w": 100,
+                "h": 100
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Phaser3",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
